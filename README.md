@@ -33,6 +33,7 @@ Initialize the backend service application directly from your console terminal:
 
 ```bash
 uvicorn src.app:app --reload --host 127.0.0.1 --port 8000
+
 ```
 
 ```json
